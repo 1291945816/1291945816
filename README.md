@@ -1,4 +1,4 @@
-### 千里之行，始于足下 👋
+### 千里之行，始于足下 ✨
 ### 把握机会，不言放弃 👋
 <!--
 **1291945816/1291945816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
