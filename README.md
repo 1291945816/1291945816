@@ -1,4 +1,5 @@
-### 事实证明，做事情还是需要衡量利益，不然半路拉人入队，是出于好心，但是人家未曾在其他方面愿意拉你一马。
+### 事实证明，做事情选人还是需要衡量利益。
+
 <!--
 **1291945816/1291945816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
