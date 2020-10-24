@@ -1,4 +1,4 @@
-### 事实证明，做事情选人还是需要衡量利益。
+### 前方三条路，我都想试试，尽管有些路仿佛已经能够看到尽头。
 
 <!--
 **1291945816/1291945816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
