@@ -6,7 +6,7 @@
 
 Welcome to my Github home, and here some demo is stored on Github Repo, which is written during my university. And then if you have any questions about these, welcome to communicate with me. On the left is the information about  my communication, thanks. 
 
-Recent research directions: ***Java back-end development ***
+Recent research directions: ***Java back-end development***
 
 Future research directions: ***BigData and Recommend system Or Computer vision (Master degree candidate)***
 
