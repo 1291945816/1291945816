@@ -4,7 +4,7 @@
 
 - :balloon:未来研究方向: ***大数据与推荐系统(硕士研究生)***
 
-Welcome to my Github home, and here some demo is stored on Github Repo, which is written during my university. And then if you have any questions about these, welcome to communicate with me. On the left is the information about  my communication, thanks. 
+Welcome to my Github home, and here some demo are stored on Github Repo, which are written during my university. And then if you have any questions about these, welcome to communicate with me. On the left is the information about  my communication, thanks. 
 
 - :balloon:Recent research directions: ***Java back-end development***
 
