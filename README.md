@@ -16,4 +16,8 @@
 
 擅长的编程语言: C/C++、Java
 
+### 最新博客文章
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
