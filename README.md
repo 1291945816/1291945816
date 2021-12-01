@@ -1,8 +1,7 @@
 > 更新于 2021/11/26
 
 :trophy::trophy::trophy:
-
-# 欢迎来到我的github主页
+欢迎来到我的github主页
 
 ### ✨兴趣方向
 
@@ -23,11 +22,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-
 想要了解更多关于我，请访问: [关于](http://blog.kilig.ink/about/)
 
 ### ✨其他
 
-![](https://raw.githubusercontent.com/1291945816/1291945816/main/assets/github-contribution-grid-snake.svg)              
+![](https://raw.githubusercontent.com/1291945816/1291945816/master/assets/github-contribution-grid-snake.svg)              
 
