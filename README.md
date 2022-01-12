@@ -1,7 +1,6 @@
 > 更新于 2022/01/12 
 
-
-**:trophy::trophy::trophy:欢迎来到我的github主页**
+**:trophy:欢迎来到我的github主页:trophy:**
 
 ### ✨兴趣方向
 
