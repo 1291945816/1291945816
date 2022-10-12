@@ -4,7 +4,6 @@
 
 ### ✨兴趣方向
 
-- **高性能计算<当前方向>**
 - ``Linux``底层开发
 - ``C/C++``服务端开发
 - ``Java``后端开发
@@ -17,7 +16,7 @@
 - 🎈CSDN：[pSong1214](https://blog.csdn.net/weixin_42792088)
 - 🎈RSS订阅:[pSong's blog (blog.kilig.ink/atom.xml)](http://blog.kilig.ink/atom.xml) | [pSong's blog (blog.dreamforme.top/atom.xml)](https://blog.dreamforme.top/atom.xml)
 
-### ✨最新博客文章
+### ✨最新博客文章[目前暂停更新]
 
 <!-- BLOG-POST-LIST:START -->
 - [吴恩达机器学习笔记3: 逻辑回归](http://1291945816.github.io/2022/01/15/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B03-%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92/)
