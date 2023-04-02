@@ -16,9 +16,6 @@
 - 🎈CSDN：[pSong1214](https://blog.csdn.net/weixin_42792088)
 - 🎈RSS订阅:[pSong's blog (blog.kilig.ink/atom.xml)](http://blog.kilig.ink/atom.xml) | [pSong's blog (blog.dreamforme.top/atom.xml)](https://blog.dreamforme.top/atom.xml)
 
-### ✨每周记录
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### ✨最新博客文章[目前暂停更新]
 
