@@ -7,9 +7,7 @@
 - 性能优化方向
 
 ## 二、博客站点
-
-- 🎈国内推荐访问: [pSomng's blog (blog.kilig.ink)](http://blog.kilig.ink/)
-- 🎈国外推荐访问: [pSomng's blog (blog.dreamforme.top)](https://blog.dreamforme.top/)
+- 🎈个人站点: [pSomng's blog (blog.dreamforme.top)](https://blog.dreamforme.top/)
 - 🎈CSDN：[pSomng](https://blog.csdn.net/weixin_42792088)
 - 🎈RSS订阅:[pSomng's blog (blog.kilig.ink/atom.xml)](http://blog.kilig.ink/atom.xml) | [pSomng's blog (blog.dreamforme.top/atom.xml)](https://blog.dreamforme.top/atom.xml)
 
